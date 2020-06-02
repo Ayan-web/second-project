@@ -5,5 +5,10 @@ def laptop():
     """ the best coment"""
     print("it's running great")
 
+def desktop():
+    """this is a desktop"""
+    print("its running great")
+    
+
 print("the end: ")
 laptop()
