@@ -1,2 +1,8 @@
 testenv
-.vscode
+.vscode./testenv/bin
+./testenv/include
+./testenv/lib
+./testenv/lib64
+./testenv/pyvenv.cfg
+./testenv/share
+ 
